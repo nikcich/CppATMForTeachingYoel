@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1672884836 source:c:\users\nrcms\desktop\cpptesting\atm\account.cpp
+	"Account.h"
+
+1672884674 c:\users\nrcms\desktop\cpptesting\atm\account.h
+	<string>
+
+1672883131 source:c:\users\nrcms\desktop\cpptesting\atm\main.cpp
+	<iostream>
+	"Account.h"
+	"ATM.h"
+	<string>
+
+1672884761 source:c:\users\nrcms\desktop\cpptesting\atm\atm.cpp
+	"ATM.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1672884017 c:\users\nrcms\desktop\cpptesting\atm\atm.h
+	<string>
+	<vector>
+	"Account.h"
+
